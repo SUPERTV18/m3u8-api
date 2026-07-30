@@ -670,7 +670,7 @@
     {
       "id": "94",
       "name": "ON SPORT 1 HD",
-      "url": "https://stm.linkip.org/live/1125_.m3u8",
+      "url": "https://ali.albesriali8.workers.dev/?url=http://ar.ycncdn.online/live/006900/index.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -679,7 +679,7 @@
     {
       "id": "95",
       "name": "ON SPORT 2 HD",
-      "url": "https://stm.linkip.org/live/1150_.m3u8",
+      "url": "https://ali.albesriali8.workers.dev/?url=http://ar.ycncdn.online/live/007000/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

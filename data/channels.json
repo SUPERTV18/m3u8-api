@@ -340,7 +340,7 @@
       "id": "24",
       "name": "ALWAN Sports 1",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=https://alwan.st-plasma.workers.dev/alwan1/index.m3u8",
+      "https://ali.albesriali8.workers.dev/?url=https://alwan.st-plasma.workers.dev/alwan1/tracks-v1a1/mono.m3u8",
       "headers": { 
         "User-Agent": "", 
         "Referer": "", "Origin": "" }

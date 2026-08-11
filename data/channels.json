@@ -631,7 +631,7 @@
       "id": "89",
       "name": "AL-FAJER 1 HD",
       "url": 
-      "https://goal-livetv.pages.dev/GUBA_STREAM_AL-FAJR%20TV_1.m3u8",
+      "https://ali.albesriali8.workers.dev/?url=https://redperch.space/neocardinal.php?id=alfajer1",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -641,28 +641,28 @@
       "id": "90",
       "name": "AL-FAJER 2 HD",
       "url": 
-      "https://stm.linkip.org/live/1113_.m3u8",
+      "https://ali.albesriali8.workers.dev/?url=https://redperch.space/neocardinal.php?id=alfajer2",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "91",
       "name": "AL-FAJER 3 HD",
       "url": 
-      "https://github.com/himasabry/xpola-player/raw/refs/heads/main/ftv3.m3u8",
+      "https://ali.albesriali8.workers.dev/?url=https://redperch.space/neocardinal.php?id=alfajer3",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "92",
       "name": "AL-FAJER 4 HD",
       "url": 
-      "https://stm.linkip.org/live/1111_.m3u8",
+      "https://ali.albesriali8.workers.dev/?url=https://redperch.space/neocardinal.php?id=alfajer4",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "93",
       "name": "AL-FAJER 5 HD",
       "url": 
-      "https://stm.linkip.org/live/1110_.m3u8",
+      "https://ali.albesriali8.workers.dev/?url=https://redperch.space/neocardinal.php?id=alfajer5",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     }
   ],

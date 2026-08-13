@@ -439,7 +439,7 @@
     {
       "id": "55",
       "name": "Thmanyah 1 HD",
-      "url": "https://super.super-stv.workers.dev/ch/THM1_fhd.m3u8",
+      "url": "https://ali.albesriali8.workers.dev/?url=http://amir11.bounceme.net:8080/live/aOxrjeE7r1/MynTCnfUDD/118.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -448,13 +448,13 @@
     {
       "id": "56",
       "name": "Thmanyah 2 HD",
-      "url": "https://super.super-stv.workers.dev/ch/THM2_fhd.m3u8",
+      "url": "https://ali.albesriali8.workers.dev/?url=http://amir11.bounceme.net:8080/live/aOxrjeE7r1/MynTCnfUDD/119.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "57",
       "name": "Thmanyah 3 HD",
-      "url": "https://super.super-stv.workers.dev/ch/THM3_fhd.m3u8",
+      "url": "https://ali.albesriali8.workers.dev/?url=http://amir11.bounceme.net:8080/live/aOxrjeE7r1/MynTCnfUDD/120.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

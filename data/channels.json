@@ -176,19 +176,19 @@
     {
       "id": "b2_SD",
       "name": "Bein Sports 2 SD",
-      "url": "https://popcdn.kianezidi.workers.dev/beINAR2.m3u8",
+      "url": "https://super-tv.pages.dev/bein_2_sd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_SD",
       "name": "Bein Sports 3 SD",
-      "url": "https://popcdn.kianezidi.workers.dev/beINAR3.m3u8",
+      "url": "https://super-tv.pages.dev/bein_3_sd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b4_SD",
       "name": "Bein Sports 4 SD",
-      "url": "https://popcdn.kianezidi.workers.dev/beINAR4.m3u8",
+      "url": "https://super-tv.pages.dev/bein_4_sd.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -197,20 +197,20 @@
     {
       "id": "b5_SD",
       "name": "Bein Sports 5 SD",
-      "url": "https://popcdn.kianezidi.workers.dev/beINAR5.m3u8",
+      "url": "https://super-tv.pages.dev/bein_5_sd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b6_SD",
       "name": "Bein Sports 6 SD",
-      "url": "https://popcdn.kianezidi.workers.dev/beINAR6.m3u8",
+      "url": "https://super-tv.pages.dev/bein_6_sd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b7_SD",
       "name": "Bein Sports 7 SD",
       "url": 
-      "https://popcdn.kianezidi.workers.dev/beINAR7.m3u8",
+      "https://super-tv.pages.dev/bein_7_sd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     }
   ],

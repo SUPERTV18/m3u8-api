@@ -1,116 +1,103 @@
 import fs from "fs";
 import path from "path";
-import { incrementViewer } from "./viewers.js";
 
-// User-Agent الخاص بالتطبيق
-const NEW_UA = "SUPER2026";
-
-// User-Agent القديم
-const OLD_UA = "SUPERTVLIVE2026";
-
-// فيديو المصيدة
-const TRAP_VIDEO =
-  "https://github.com/himasabry/video/raw/refs/heads/main/output.m3u8";
-
-export default async function handler(req, res) {
+export default function handler(req, res) {
   try {
     const { id } = req.query;
 
     if (!id) {
-      return res.status(400).send("Missing id");
+      return res.status(400).json({
+        success: false,
+        error: "Missing id"
+      });
     }
 
-    const ua = req.headers["user-agent"] || "";
-
-    // =====================================
-    // تسجيل معلومات الطلب
-    // =====================================
-    const ip =
-      req.headers["x-forwarded-for"]?.split(",")[0]?.trim() ||
-      req.socket?.remoteAddress ||
-      "unknown";
-
-    console.log("========== PLAY ==========");
-    console.log("ID:", id);
-    console.log("IP:", ip);
-    console.log("UA:", ua);
-    console.log("TIME:", new Date().toISOString());
-    console.log("==========================");
-
-    // =====================================
-    // عداد المشاهدين
-    // =====================================
-    incrementViewer(id);
-
-    // =====================================
-    // 🔴 User-Agent القديم → المصيدة
-    // =====================================
-    if (ua.toLowerCase().includes(OLD_UA.toLowerCase())) {
-      return res.redirect(302, TRAP_VIDEO);
-    }
-
-    // =====================================
-    // ❌ User-Agent غير معروف
-    // =====================================
-    if (!ua.toLowerCase().includes(NEW_UA.toLowerCase())) {
-      return res.status(403).send("Forbidden");
-    }
-
-    // =====================================
-    // قراءة القنوات
-    // =====================================
+    // =========================
+    // قراءة channels.json
+    // =========================
     const filePath = path.join(
       process.cwd(),
       "data",
       "channels.json"
     );
 
+    if (!fs.existsSync(filePath)) {
+      return res.status(500).json({
+        success: false,
+        error: "channels.json not found"
+      });
+    }
+
     const data = JSON.parse(
       fs.readFileSync(filePath, "utf8")
     );
 
-    // =====================================
+    // =========================
     // البحث عن القناة
-    // =====================================
+    // =========================
     let channel = null;
+    let category = null;
 
-    for (const group of Object.values(data)) {
-      if (!Array.isArray(group)) continue;
+    for (const [group, channels] of Object.entries(data)) {
 
-      const found = group.find(
+      if (!Array.isArray(channels)) {
+        continue;
+      }
+
+      const found = channels.find(
         ch => String(ch.id) === String(id)
       );
 
       if (found) {
         channel = found;
+        category = group;
         break;
       }
     }
 
-    // =====================================
+    // =========================
     // القناة غير موجودة
-    // =====================================
+    // =========================
     if (!channel) {
-      return res.status(404).send("Channel not found");
+      return res.status(404).json({
+        success: false,
+        error: "Channel not found",
+        id: String(id)
+      });
     }
 
+    // =========================
+    // الرابط غير موجود
+    // =========================
     if (!channel.url) {
-      return res.status(404).send("Channel URL missing");
+      return res.status(404).json({
+        success: false,
+        error: "Channel URL missing",
+        id: String(id),
+        name: channel.name || ""
+      });
     }
 
-    // =====================================
-    // تشغيل الرابط الأصلي كما هو
-    // =====================================
-    return res
-      .status(302)
-      .setHeader("Location", channel.url)
-      .end();
+    // =========================
+    // إرجاع البيانات للاختبار
+    // =========================
+    return res.status(200).json({
+      success: true,
+      id: String(channel.id),
+      name: channel.name || "",
+      category: category,
+      url: channel.url,
+      headers: channel.headers || {}
+    });
 
-  } catch (e) {
-    console.error("PLAY ERROR:", e);
+  } catch (error) {
 
-    return res.status(500).send(
-      "Server error"
-    );
+    console.error("PLAY TEST ERROR:", error);
+
+    return res.status(500).json({
+      success: false,
+      error: "Server error",
+      message: error.message
+    });
   }
 }

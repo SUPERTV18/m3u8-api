@@ -468,7 +468,8 @@
     {
       "id": "THM1_HDR",
       "name": "Thmanyah 1 HDR",
-      "url": "https://ms-live.servers8.com/live/ch01-fta/variant.m3u8",
+      "url": 
+      "https://akamai-live.servers8.com/live/ch03-fta/index.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -483,7 +484,7 @@
     {
       "id": "THM3_HDR",
       "name": "Thmanyah 3 HDR",
-      "url": "https://ms-live.servers8.com/live/ch03-fta/variant.m3u8",
+      "url": "https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ4SURNcldwZ1VsVnNPRlJzSExKR1k4Mmlya0wyIiwiY2hhbm5lbE5hbWUiOiJjaDAzLWZ0YSIsImlwIjoiMjA5LjE5OC4xMzIuMTMiLCJpcF92NCI6IjIwOS4xOTguMTMyLjEzIiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTMuMCIsImhhc1N1YnNjcmlwdGlvbnMiOmZhbHNlLCJuYmYiOjE3ODY4MDc0NzgsImV4cCI6MTc4Njg1NDI3OCwiZ2VvQnlwYXNzIjpmYWxzZSwiaWF0IjoxNzg2ODA3NDc4fQ.7f703g9obj4LthJ8mCQzvFE8i1lkbhrrJPXnVPkn22g/live/ch03-fta/index.m3u8?auth_key=1786807508-99351945b39d48ea90bd4c1ddd9809b4-0-6a27fa7089faf79e328e3745bb78749d",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

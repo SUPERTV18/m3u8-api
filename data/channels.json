@@ -167,7 +167,7 @@
     {
       "id": "b1_SD",
       "name": "Bein Sports 1 SD",
-      "url": "https://oscartv.gharibzq.workers.dev/?id=63&go=169&file=.m3u8",
+      "url": "https://super-tv.pages.dev/bein_1_sd.m3u8",
       "headers": {
         "User-Agent": "",
         "Referer": "",
@@ -209,6 +209,56 @@
     {
       "id": "b7_SD",
       "name": "Bein Sports 7 SD",
+      "url": 
+      "https://super-tv.pages.dev/bein_7_sd.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    }
+  ],
+  {
+      "id": "b1_LOW",
+      "name": "Bein Sports 1 LOW",
+      "url": "https://oscartv.gharibzq.workers.dev/?id=63&go=169&file=.m3u8",
+      "headers": {
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "" }
+    },
+    {
+      "id": "b2_LOW",
+      "name": "Bein Sports 2 LOW",
+      "url": "https://oscartv.gharibzq.workers.dev/?id=65&go=159&file=.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "b3_LOW",
+      "name": "Bein Sports 3 LOW",
+      "url": "https://oscartv.gharibzq.workers.dev/?id=66&go=252&file=.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "b4_LOW",
+      "name": "Bein Sports 4 LOW",
+      "url": "https://oscartv.gharibzq.workers.dev/?id=67&go=85&file=.m3u8",
+      "headers": { 
+        "User-Agent": "",
+        "Referer": "",
+        "Origin": "" }
+    },
+    {
+      "id": "b5_LOW",
+      "name": "Bein Sports 5 LOW",
+      "url": "https://super-tv.pages.dev/bein_5_sd.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "b6_LOW",
+      "name": "Bein Sports 6 LOW",
+      "url": "https://super-tv.pages.dev/bein_6_sd.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "b7_LOW",
+      "name": "Bein Sports 7 LOW",
       "url": 
       "https://super-tv.pages.dev/bein_7_sd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }

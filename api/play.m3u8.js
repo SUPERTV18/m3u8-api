@@ -2,81 +2,115 @@ import fs from "fs";
 import path from "path";
 import { incrementViewer } from "./viewers.js";
 
-// 🔥 User Agents
+// User-Agent الخاص بالتطبيق
 const NEW_UA = "SUPER2026";
+
+// User-Agent القديم
 const OLD_UA = "SUPERTVLIVE2026";
+
+// فيديو المصيدة
+const TRAP_VIDEO =
+  "https://github.com/himasabry/video/raw/refs/heads/main/output.m3u8";
 
 export default async function handler(req, res) {
   try {
     const { id } = req.query;
-    if (!id) return res.status(400).send("Missing id");
 
-    const ua = (req.headers["user-agent"] || "").toLowerCase();
-
-    incrementViewer(id);
-
-    // =========================
-    // 🔴 1 - المصيدة (اليوزر القديم)
-    // =========================
-    if (ua.includes(OLD_UA.toLowerCase()) || ua.includes("superlivetv")) {
-      // بدل فيديو (الأكثر استقرارًا)
-      return res.redirect(
-        "https://github.com/himasabry/video/raw/refs/heads/main/output.m3u8"
-      );
+    if (!id) {
+      return res.status(400).send("Missing id");
     }
 
-    // =========================
-    // ❌ 2 - أي حد مش اليوزر الجديد يتمنع
-    // =========================
-    if (!ua.includes(NEW_UA.toLowerCase())) {
+    const ua = req.headers["user-agent"] || "";
+
+    // =====================================
+    // تسجيل معلومات الطلب
+    // =====================================
+    const ip =
+      req.headers["x-forwarded-for"]?.split(",")[0]?.trim() ||
+      req.socket?.remoteAddress ||
+      "unknown";
+
+    console.log("========== PLAY ==========");
+    console.log("ID:", id);
+    console.log("IP:", ip);
+    console.log("UA:", ua);
+    console.log("TIME:", new Date().toISOString());
+    console.log("==========================");
+
+    // =====================================
+    // عداد المشاهدين
+    // =====================================
+    incrementViewer(id);
+
+    // =====================================
+    // 🔴 User-Agent القديم → المصيدة
+    // =====================================
+    if (ua.toLowerCase().includes(OLD_UA.toLowerCase())) {
+      return res.redirect(302, TRAP_VIDEO);
+    }
+
+    // =====================================
+    // ❌ User-Agent غير معروف
+    // =====================================
+    if (!ua.toLowerCase().includes(NEW_UA.toLowerCase())) {
       return res.status(403).send("Forbidden");
     }
 
-    // =========================
-    // ✅ 3 - اليوزر الجديد (تشغيل القنوات)
-    // =========================
-    const filePath = path.join(process.cwd(), "data", "channels.json");
-    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    // =====================================
+    // قراءة القنوات
+    // =====================================
+    const filePath = path.join(
+      process.cwd(),
+      "data",
+      "channels.json"
+    );
 
+    const data = JSON.parse(
+      fs.readFileSync(filePath, "utf8")
+    );
+
+    // =====================================
+    // البحث عن القناة
+    // =====================================
     let channel = null;
 
     for (const group of Object.values(data)) {
-      const found = group.find((ch) => ch.id === id);
+      if (!Array.isArray(group)) continue;
+
+      const found = group.find(
+        ch => String(ch.id) === String(id)
+      );
+
       if (found) {
         channel = found;
         break;
       }
     }
 
+    // =====================================
+    // القناة غير موجودة
+    // =====================================
     if (!channel) {
       return res.status(404).send("Channel not found");
     }
 
-    // =========================
-    // =========================
-// =========================
-// 📺 القنوات العادية
-// =========================
-if (!channel.url.includes("ostora")) {
-  return res.redirect(channel.url);
-}
+    if (!channel.url) {
+      return res.status(404).send("Channel URL missing");
+    }
 
-    // =========================
-    // 🌐 ostora handling
-    // =========================
-    const cleanUrl = channel.url.split("#")[0];
-
-    const response = await fetch(cleanUrl, {
-      headers: {
-        "User-Agent": "Mozilla/5.0",
-        Referer: "https://ostora.pages.dev/",
-      },
-    });
-
-    return res.redirect(response.url);
+    // =====================================
+    // تشغيل الرابط الأصلي كما هو
+    // =====================================
+    return res
+      .status(302)
+      .setHeader("Location", channel.url)
+      .end();
 
   } catch (e) {
     console.error("PLAY ERROR:", e);
-    return res.status(500).send("Server error");
+
+    return res.status(500).send(
+      "Server error"
+    );
   }
 }

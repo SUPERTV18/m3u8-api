@@ -75,14 +75,14 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://ea-pl4k-b1a2.b-cdn.net/hls/bn1_fhdnm_stream.m3u8",
+      "https://oscartv.gharibzq.workers.dev/?id=63&go=171&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://ea-pl4k-b1a2.b-cdn.net/hls/bn2_fhdnm_stream.m3u8",
+      "https://oscartv.gharibzq.workers.dev/?id=65&go=160&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

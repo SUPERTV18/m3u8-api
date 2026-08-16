@@ -301,7 +301,7 @@
       "id": "24",
       "name": "ALWAN Sports 1",
       "url": 
-      "https://pls4k-alwan.b-cdn.net/hls/",
+      "https://ali.albesriali8.workers.dev/?url=https://redperch.space/dramacardinal.php?id=alwan1",
       "headers": { 
         "User-Agent": "", 
         "Referer": "", "Origin": "" }
@@ -310,7 +310,7 @@
       "id": "25",
       "name": "ALWAN Sports 2",
       "url": 
-      "https://pls4k-alwan.b-cdn.net/hls/",
+      "https://ali.albesriali8.workers.dev/?url=https://redperch.space/dramacardinal.php?id=alwan2",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

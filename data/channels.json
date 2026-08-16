@@ -301,7 +301,7 @@
       "id": "24",
       "name": "ALWAN Sports 1",
       "url": 
-      "https://super-tv.pages.dev/ALWAN1.m3u8",
+      "https://pls4k-alwan.b-cdn.net/hls/al1_1080_stream.m3u8",
       "headers": { 
         "User-Agent": "", 
         "Referer": "", "Origin": "" }
@@ -648,7 +648,8 @@
     {
       "id": "96",
       "name": "ON SPORT 3 HD",
-      "url": "https://stm.linkip.org/live/1148_.m3u8",
+      "url": 
+      "https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

@@ -38,19 +38,19 @@
       "id": "TOD1",
       "name": "TOD 1 ",
       "url": 
-      "https://super-tv.pages.dev/TOD.m3u8",
+      "https://super-tv.pages.dev/TOD_1.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "TOD2",
       "name": "TOD 2 ",
-      "url": "https://cdn.tv-rds.workers.dev/beINAR2",
+      "url": "https://super-tv.pages.dev/TOD_2.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "TOD3",
       "name": "TOD 3 ",
-      "url": "https://cdn.tv-rds.workers.dev/beINAR3",
+      "url": "https://super-tv.pages.dev/TOD_3.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

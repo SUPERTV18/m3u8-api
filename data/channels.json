@@ -523,7 +523,7 @@
     {
       "id": "55",
       "name": "Thmanyah 1 HD",
-      "url": "https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thmanyahsports_1.m3u8",
+      "url": "https://oscartv.gharibzq.workers.dev/?id=80&go=242&file=.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -532,13 +532,13 @@
     {
       "id": "56",
       "name": "Thmanyah 2 HD",
-      "url": "https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thmanyahsports_2.m3u8",
+      "url": "https://oscartv.gharibzq.workers.dev/?id=90&go=245&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "57",
       "name": "Thmanyah 3 HD",
-      "url": "https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thmanyahsports_3.m3u8",
+      "url": "https://oscartv.gharibzq.workers.dev/?id=91&go=248&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

@@ -510,7 +510,7 @@
     {
       "id": "THM2_HDR",
       "name": "Thmanyah 2 HDR",
-      "url": "https://ms-live.servers8.com/live/ch02-fta/variant.m3u8",
+      "url": "https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJKOHdhN293cFl6UjdzenZkY2pGVXoyYzJRMDUyIiwiY2hhbm5lbE5hbWUiOiJjaDAyLWZ0YSIsImlwIjoiMjA5LjE5OC4xMzIuOCIsImlwX3Y0IjoiMjA5LjE5OC4xMzIuOCIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTUzLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTUzLjAiLCJoYXNTdWJzY3JpcHRpb25zIjpmYWxzZSwibmJmIjoxNzg3MzI2NDU1LCJleHAiOjE3ODczNzMzMTUsImdlb0J5cGFzcyI6ZmFsc2UsImlhdCI6MTc4NzMyNjUxNX0.zPnWwwT2pSbdIbA-Eqysusdgzn3wppDhA6kddX2OSYU/live/ch02-fta/index.m3u8?auth_key=1787326545-c4d76dc1ce134d13907bef9f6940bd53-0-67950dbff7d15b036f3be6722e545704",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

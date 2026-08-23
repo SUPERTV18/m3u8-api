@@ -431,13 +431,13 @@
     {
       "id": "36",
       "name": "ALOSTORA Sports 3",
-      "url": "https://ostora-tv.super-stv.workers.dev/super/play.m3u8?id=4132&cat=333",
+      "url": "https://ye-m3u8.tofi-xtv.com/stream/6-24-44/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "37",
       "name": "ALOSTORA Sports 4",
-      "url": "https://ostora-tv.super-stv.workers.dev/super/play.m3u8?id=4134&cat=333",
+      "url": "https://ye-m3u8.tofi-xtv.com/stream/7-24-44/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

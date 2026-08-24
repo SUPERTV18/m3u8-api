@@ -10,28 +10,28 @@
       "id": "supertv1",
       "name": "SUPER TV 1 (multi)",
       "url": 
-      "https://super-livetv.vercel.app/SUPERTV_1.m3u8",
+      "https://super-tvlive.vercel.app/SUPERTV_1.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "supertv2",
       "name": "SUPER TV 2 (multi)",
       "url": 
-      "https://super-livetv.vercel.app/SUPERTV_2.m3u8",
+      "https://super-tvlive.vercel.app/SUPERTV_2.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "supertv3",
       "name": "SUPER TV 3 (multi)",
       "url": 
-      "https://super-livetv.vercel.app/SUPERTV_3.m3u8",
+      "https://super-tvlive.vercel.app/SUPERTV_3.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "supertv4",
       "name": "SUPER TV 4 (multi)",
       "url": 
-      "https://super-livetv.vercel.app/SUPERTV_4.m3u8",
+      "https://super-tvlive.vercel.app/SUPERTV_4.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

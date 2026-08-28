@@ -501,7 +501,7 @@
       "id": "THM1_HDR",
       "name": "Thmanyah 1 HDR",
       "url": 
-      "https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJKOHdhN293cFl6UjdzenZkY2pGVXoyYzJRMDUyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMjA5LjE5OC4xMzIuNzEiLCJpcF92NCI6IjIwOS4xOTguMTMyLjcxIiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTQuMCIsImhhc1N1YnNjcmlwdGlvbnMiOmZhbHNlLCJuYmYiOjE3ODc1OTI5MDksImV4cCI6MTc4NzYzOTc2OSwiZ2VvQnlwYXNzIjpmYWxzZSwiaWF0IjoxNzg3NTkyOTY5fQ.3C2Ax0uEeCJSRl6g6YF874FVzgZxDYUDCfYLsW2nU2g/live/ch01-fta/index.m3u8?auth_key=1787592999-9907f38e49dd4c8295aac6d9251ed6e0-0-edbbebbdbe1b853730fc70a4242d15a8",
+      "https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTT0xha2JlaFpvZGIxWUc1UFJHWTZKeVpmaTgyIiwiY2hhbm5lbE5hbWUiOiJjaDEzIiwiaXAiOiI1MC42MC45OC4xNzUiLCJpcF92NCI6IjUwLjYwLjk4LjE3NSIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiaGFzU3Vic2NyaXB0aW9ucyI6ZmFsc2UsIm5iZiI6MTc4NzkzOTEwMiwiZXhwIjoxNzg3OTg1OTYyLCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3ODc5MzkxNjJ9.nMdO8YSLWOuSavdQKThwAqzDe90FpgzAyz3bLJuTd2c/live/ch13/index.m3u8?aws.manifestfilter=video_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1787939192-19af0d58a9b748119f5f4cee6788b789-0-4d6e7fa2dcafd7c72c962336db565e4c",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -510,7 +510,8 @@
     {
       "id": "THM2_HDR",
       "name": "Thmanyah 2 HDR",
-      "url": "https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJKOHdhN293cFl6UjdzenZkY2pGVXoyYzJRMDUyIiwiY2hhbm5lbE5hbWUiOiJjaDAyLWZ0YSIsImlwIjoiMjA5LjE5OC4xMzIuOCIsImlwX3Y0IjoiMjA5LjE5OC4xMzIuOCIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTUzLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTUzLjAiLCJoYXNTdWJzY3JpcHRpb25zIjpmYWxzZSwibmJmIjoxNzg3MzI2NDU1LCJleHAiOjE3ODczNzMzMTUsImdlb0J5cGFzcyI6ZmFsc2UsImlhdCI6MTc4NzMyNjUxNX0.zPnWwwT2pSbdIbA-Eqysusdgzn3wppDhA6kddX2OSYU/live/ch02-fta/index.m3u8?auth_key=1787326545-c4d76dc1ce134d13907bef9f6940bd53-0-67950dbff7d15b036f3be6722e545704",
+      "url": 
+      "https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTT0xha2JlaFpvZGIxWUc1UFJHWTZKeVpmaTgyIiwiY2hhbm5lbE5hbWUiOiJjaDExIiwiaXAiOiI1MC42MC45OC4xNzUiLCJpcF92NCI6IjUwLjYwLjk4LjE3NSIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiaGFzU3Vic2NyaXB0aW9ucyI6ZmFsc2UsIm5iZiI6MTc4NzkzOTUyMCwiZXhwIjoxNzg3OTg2MzgwLCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3ODc5Mzk1ODB9.rhd2C4BTYhGs4e17SgaS6vHo7nnv9aqvuDXfQCN1yB4/live/ch11/index.m3u8?aws.manifestfilter=video_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1787939610-59ae6752e1ef4ef4bd1a44e83a4fe22e-0-2e2fd9562d875ac21ec32613fe5cc5be",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

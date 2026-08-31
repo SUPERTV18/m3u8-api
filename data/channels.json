@@ -35,6 +35,34 @@
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
+      "id": "stvquraan",
+      "name": "SUPER TV قرأن (multi)",
+      "url": 
+      "https://super-tvlive.vercel.app/SUPERTV_QURAAN.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "stvaflam",
+      "name": "SUPER TV افلام (multi)",
+      "url": 
+      "https://super-tvlive.vercel.app/SUPERTV_AFLAM.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "stvseries",
+      "name": "SUPER TV مسلسلات (multi)",
+      "url": 
+      "https://super-tvlive.vercel.app/SUPERTV_MUSALSALAT.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "stvkids",
+      "name": "SUPER TV اطفال (multi)",
+      "url": 
+      "https://super-tvlive.vercel.app/SUPERTV_KIDS.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
       "id": "TOD1",
       "name": "TOD 1 ",
       "url": 

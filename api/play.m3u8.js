@@ -5,8 +5,8 @@ import { incrementViewer } from "./viewers.js";
 // =========================
 // User Agents
 // =========================
-const NEW_UA = "SUPER2026";
-const OLD_UA = "SUPERTVLIVE2026";
+const NEW_UA = "stv2026";
+const OLD_UA = "SUPER2026";
 
 // =========================
 // فيديو الاستجابة للـ UA القديم

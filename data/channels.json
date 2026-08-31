@@ -442,7 +442,7 @@
       "id": "34",
       "name": "ALOSTORA Sports 1",
       "url": 
-      "https://ye-m3u8.tofi-xtv.com/stream/4-24-44/index.m3u8?tofiUrlname=%D8%AC%D9%88%D8%AF%D8%A9%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9",
+      "https",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -451,7 +451,8 @@
     {
       "id": "35",
       "name": "ALOSTORA Sports 2",
-      "url": "https://ye-m3u8.tofi-xtv.com/stream/5-25-45/index.m3u8?tofiUrlname=%D8%AC%D9%88%D8%AF%D8%A9%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9",
+      "url": 
+      "https://go8knm.optikl.ink/Oss/index.php/B2ostora/video.m3u8?id=my_1788196372",
       "headers": { 
         "User-Agent": "",
         "Referer": "", "Origin": "" }
@@ -459,7 +460,7 @@
     {
       "id": "36",
       "name": "ALOSTORA Sports 3",
-      "url": "https://ye-m3u8.tofi-xtv.com/stream/6-24-44/index.m3u8",
+      "url": "https://ye-m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

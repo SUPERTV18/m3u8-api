@@ -106,28 +106,28 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://oscartv.super-stv.workers.dev/?id=63&go=171&file=.m3u8",
+      "https://flu.systemnet.tv/BeinHD.1/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://p-ea4k-pl-bn.b-cdn.net/hls/bn2_1080g.m3u8",
+      "https://extraali4k-plasma4k-thm.b-cdn.net/beinsports2/index.m3u8?token=krikartv",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_FHD",
       "name": "Bein Sports 3 FHD",
       "url": 
-      "https://p-ea4k-pl-bn.b-cdn.net/hls/bn3_1080g.m3u8",
+      "https://extraali4k-plasma4k-thm.b-cdn.net/beinsports3/index.m3u8?token=krikartv",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b4_FHD",
       "name": "Bein Sports 4 FHD",
       "url": 
-      "https://p-ea4k-pl-bn.b-cdn.net/hls/bn4_1080nm_stream.m3u8",
+      "https://extraali4k-plasma4k-thm.b-cdn.net/beinsports4/index.m3u8?token=krikartv",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -136,13 +136,13 @@
     {
       "id": "b5_FHD",
       "name": "Bein Sports 5 FHD",
-      "url": "https://p-ea4k-pl-bn.b-cdn.net/hls/bn5_1080nm_stream.m3u8",
+      "url": "https://extraali4k-plasma4k-thm.b-cdn.net/beinsports5/index.m3u8?token=krikartv",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b6_FHD",
       "name": "Bein Sports 6 FHD",
-      "url": "https://p-ea4k-pl-bn.b-cdn.net/hls/bn5_1080g.m3u8",
+      "url": "https://extraali4k-plasma4k-thm.b-cdn.net/beinsports6/index.m3u8?token=krikartv",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

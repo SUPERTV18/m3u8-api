@@ -106,7 +106,7 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://oscartv.gharibzq.workers.dev/?id=63&go=171&file=.m3u8",
+      "https://oscartv.super-stv.workers.dev/?id=63&go=171&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -259,7 +259,7 @@
 {
   "id": "b1_LOW",
   "name": "Bein Sports 1 LOW",
-  "url": "https://oscartv.gharibzq.workers.dev/?id=63&go=169&file=.m3u8",
+  "url": "https://nt1.rahomigi.workers.dev/live",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -269,7 +269,7 @@
 {
   "id": "b2_LOW",
   "name": "Bein Sports 2 LOW",
-  "url": "https://oscartv.gharibzq.workers.dev/?id=65&go=159&file=.m3u8",
+  "url": "https://oscartv.super-stv.workers.dev/?id=65&go=159&file=.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -279,7 +279,7 @@
 {
   "id": "b3_LOW",
   "name": "Bein Sports 3 LOW",
-  "url": "https://oscartv.gharibzq.workers.dev/?id=66&go=252&file=.m3u8",
+  "url": "https://oscartv.super-stv.workers.dev/?id=66&go=252&file=.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -289,7 +289,7 @@
 {
   "id": "b4_LOW",
   "name": "Bein Sports 4 LOW",
-  "url": "https://oscartv.gharibzq.workers.dev/?id=67&go=85&file=.m3u8",
+  "url": "https://oscartv.super-stv.workers.dev/?id=67&go=85&file=.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -556,7 +556,7 @@
     {
       "id": "55",
       "name": "Thmanyah 1 HD",
-      "url": "https://oscartv.gharibzq.workers.dev/?id=80&go=243&file=.m3u8",
+      "url": "https://oscartv.super-stv.workers.dev/?id=80&go=243&file=.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -565,13 +565,13 @@
     {
       "id": "56",
       "name": "Thmanyah 2 HD",
-      "url": "https://oscartv.gharibzq.workers.dev/?id=90&go=245&file=.m3u8",
+      "url": "https://oscartv.super-stv.workers.dev/?id=90&go=245&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "57",
       "name": "Thmanyah 3 HD",
-      "url": "https://oscartv.gharibzq.workers.dev/?id=91&go=248&file=.m3u8",
+      "url": "https://oscartv.super-stv.workers.dev/?id=91&go=248&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

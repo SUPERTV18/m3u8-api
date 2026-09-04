@@ -199,7 +199,7 @@
     {
       "id": "b1_SD",
       "name": "Bein Sports 1 SD",
-      "url": "https://super-tv.pages.dev/bein_1_sd.m3u8",
+      "url": "https://www.manar2.shop/x1/59_2.m3u8",
       "headers": {
         "User-Agent": "",
         "Referer": "",
@@ -269,7 +269,7 @@
 {
   "id": "b2_LOW",
   "name": "Bein Sports 2 LOW",
-  "url": "https://oscartv.super-stv.workers.dev/?id=65&go=159&file=.m3u8",
+  "url": "https://nt2.rahomigi.workers.dev/live",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -279,7 +279,7 @@
 {
   "id": "b3_LOW",
   "name": "Bein Sports 3 LOW",
-  "url": "https://oscartv.super-stv.workers.dev/?id=66&go=252&file=.m3u8",
+  "url": "https://nt3.rahomigi.workers.dev/live",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -289,7 +289,7 @@
 {
   "id": "b4_LOW",
   "name": "Bein Sports 4 LOW",
-  "url": "https://oscartv.super-stv.workers.dev/?id=67&go=85&file=.m3u8",
+  "url": "https://nt4.rahomigi.workers.dev/live",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -299,7 +299,7 @@
 {
   "id": "b5_LOW",
   "name": "Bein Sports 5 LOW",
-  "url": "https://super-tv.pages.dev/bein_5_sd.m3u8",
+  "url": "https://nt5.rahomigi.workers.dev/live",
   "headers": {
     "User-Agent": "",
     "Referer": "",

@@ -199,7 +199,7 @@
     {
       "id": "b1_SD",
       "name": "Bein Sports 1 SD",
-      "url": "https://www.manar2.shop/x1/59_3.m3u8",
+      "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/24.m3u8",
       "headers": {
         "User-Agent": "",
         "Referer": "",
@@ -208,19 +208,19 @@
     {
       "id": "b2_SD",
       "name": "Bein Sports 2 SD",
-      "url": "https://super-tv.pages.dev/bein_2_sd.m3u8",
+      "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/25.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_SD",
       "name": "Bein Sports 3 SD",
-      "url": "https://super-tv.pages.dev/bein_3_sd.m3u8",
+      "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/26.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b4_SD",
       "name": "Bein Sports 4 SD",
-      "url": "https://super-tv.pages.dev/bein_4_sd.m3u8",
+      "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/27.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -229,7 +229,7 @@
     {
   "id": "b5_SD",
   "name": "Bein Sports 5 SD",
-  "url": "https://super-tv.pages.dev/bein_5_sd.m3u8",
+  "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/28.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -239,7 +239,7 @@
 {
   "id": "b6_SD",
   "name": "Bein Sports 6 SD",
-  "url": "https://super-tv.pages.dev/bein_6_sd.m3u8",
+  "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/29.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -249,7 +249,7 @@
 {
   "id": "b7_SD",
   "name": "Bein Sports 7 SD",
-  "url": "https://super-tv.pages.dev/bein_7_sd.m3u8",
+  "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/30.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",

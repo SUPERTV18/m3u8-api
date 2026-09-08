@@ -127,7 +127,7 @@
       "id": "b4_FHD",
       "name": "Bein Sports 4 FHD",
       "url": 
-      "https://prime-fast.sytes.net/prime-tv/stream/77.m3u8",
+      "https://ktplus.skrm87228.workers.dev/stream/7.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -136,13 +136,13 @@
     {
       "id": "b5_FHD",
       "name": "Bein Sports 5 FHD",
-      "url": "https://prime-fast.sytes.net/prime-tv/stream/78.m3u8",
+      "url": "https://ktplus.skrm87228.workers.dev/stream/8.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b6_FHD",
       "name": "Bein Sports 6 FHD",
-      "url": "https://extraali4k-plasma4k-thm.b-cdn.net/beinsports6/index.m3u8?token=krikartv",
+      "url": "https://ktplus.skrm87228.workers.dev/stream/9.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

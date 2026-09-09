@@ -332,7 +332,7 @@
       "id": "24",
       "name": "ALWAN Sports 1",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=https://blcco.linkip.org/live/3461_.m3u8",
+      "https://blcco.linkip.org/live/3461_.m3u8",
       "headers": { 
         "User-Agent": "", 
         "Referer": "", "Origin": "" }
@@ -341,7 +341,7 @@
       "id": "25",
       "name": "ALWAN Sports 2",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=https://blcco.linkip.org/live/3460_.m3u8",
+      "https://blcco.linkip.org/live/3460_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -349,28 +349,28 @@
       "name": 
       "ALWAN Sports 3",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=https://blcco.linkip.org/live/3459_.m3u8",
+      "https://blcco.linkip.org/live/3459_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "27",
       "name": "ALWAN Sports 4",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=https://blcco.linkip.org/live/3458_.m3u8",
+      "https://blcco.linkip.org/live/3458_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "28",
       "name": "ALWAN Sports 5",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=https://blcco.linkip.org/live/3457_.m3u8",
+      "https://blcco.linkip.org/live/3457_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "29",
       "name": "ALWAN Sports 6",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=https://blcco.linkip.org/live/3456_.m3u8",
+      "https://blcco.linkip.org/live/3456_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -445,7 +445,7 @@
       "id": "34",
       "name": "ALOSTORA Sports 1",
       "url": 
-      "https://max-9l1.pages.dev/b1.m3u8",
+      "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iFTcdW8PJuMi3mJ7XqBvJF0g-JuV4Q2zLjNm0s42x2L3JLYDgzeuqnbY0NWgBi8sUKgEaq5zrycBORuVqOp-jQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -455,7 +455,7 @@
       "id": "35",
       "name": "ALOSTORA Sports 2",
       "url": 
-      "https://max-9l1.pages.dev/b2.m3u8",
+      "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6ggD-hj9U7gZHclkvj6dRvV0v8s_PkLPmYEf3CoCAOMFTWxSGN65ZCPNqebwykuH6RPPz3ln2wJePu100WQUTw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
       "headers": { 
         "User-Agent": "",
         "Referer": "", "Origin": "" }

@@ -445,7 +445,7 @@
       "id": "34",
       "name": "ALOSTORA Sports 1",
       "url": 
-      "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iFTcdW8PJuMi3mJ7XqBvJF0g-JuV4Q2zLjNm0s42x2L3JLYDgzeuqnbY0NWgBi8sUKgEaq5zrycBORuVqOp-jQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+      "https://ap-4fd.pages.dev/bein1.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -455,7 +455,7 @@
       "id": "35",
       "name": "ALOSTORA Sports 2",
       "url": 
-      "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6ggD-hj9U7gZHclkvj6dRvV0v8s_PkLPmYEf3CoCAOMFTWxSGN65ZCPNqebwykuH6RPPz3ln2wJePu100WQUTw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+      "https://ap-4fd.pages.dev/bein2.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "", "Origin": "" }
@@ -463,13 +463,13 @@
     {
       "id": "36",
       "name": "ALOSTORA Sports 3",
-      "url": "https://max-9l1.pages.dev/b3.m3u8",
+      "url": "https://ap-4fd.pages.dev/bein3.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "37",
       "name": "ALOSTORA Sports 4",
-      "url": "https://max-9l1.pages.dev/b4.m3u8",
+      "url": "https://ap-4fd.pages.dev/bein4.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

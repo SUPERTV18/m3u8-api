@@ -445,7 +445,7 @@
       "id": "34",
       "name": "ALOSTORA Sports 1",
       "url": 
-      "https://ap-4fd.pages.dev/bein1.m3u8",
+      "https://ap-4fd.pages.dev/beinz1.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -455,7 +455,7 @@
       "id": "35",
       "name": "ALOSTORA Sports 2",
       "url": 
-      "https://ap-4fd.pages.dev/bein2.m3u8",
+      "https://ap-4fd.pages.dev/beinz2.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "", "Origin": "" }
@@ -463,7 +463,7 @@
     {
       "id": "36",
       "name": "ALOSTORA Sports 3",
-      "url": "https://ap-4fd.pages.dev/bein3.m3u8",
+      "url": "https://ap-4fd.pages.dev/beinz3.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

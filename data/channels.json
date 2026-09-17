@@ -113,21 +113,21 @@
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://sptvspk.st-plasma.workers.dev/b2f/index.m3u8",
+      "https://osc.mamganjo.workers.dev/id=65&go=160&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_FHD",
       "name": "Bein Sports 3 FHD",
       "url": 
-      "https://sptvspk.st-plasma.workers.dev/b3f/index.m3u8",
+      "https://osc.mamganjo.workers.dev/id=66&go=254&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b4_FHD",
       "name": "Bein Sports 4 FHD",
       "url": 
-      "https://ktplus.skrm87228.workers.dev/stream/7.m3u8",
+      "https://osc.mamganjo.workers.dev/id=67&go=190&file=.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -136,13 +136,13 @@
     {
       "id": "b5_FHD",
       "name": "Bein Sports 5 FHD",
-      "url": "https://ktplus.skrm87228.workers.dev/stream/8.m3u8",
+      "url": "https://osc.mamganjo.workers.dev/id=82&go=458&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b6_FHD",
       "name": "Bein Sports 6 FHD",
-      "url": "https://ktplus.skrm87228.workers.dev/stream/9.m3u8",
+      "url": "https://osc.mamganjo.workers.dev/id=83&go=461&file=.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

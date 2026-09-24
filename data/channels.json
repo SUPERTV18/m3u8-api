@@ -106,8 +106,8 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://osc.mamganjo.workers.dev/id=63&go=171&file=.m3u8",
-      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+      "http://bein.kianezidi.workers.dev/bein_sports1&q=FHD.m3u8",
+      "headers": { "User-Agent": "OSCARTV2020", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
@@ -199,7 +199,7 @@
     {
       "id": "b1_SD",
       "name": "Bein Sports 1 SD",
-      "url": "https://beout-edge.nullsave-ai.workers.dev/live/bein1/480p/index.m3u8",
+      "url": "https://alkatlan.xmax1tv.com/live/1.m3u8",
       "headers": {
         "User-Agent": "",
         "Referer": "",
@@ -208,19 +208,19 @@
     {
       "id": "b2_SD",
       "name": "Bein Sports 2 SD",
-      "url": "https://kidn.pages.dev/m3u8/165.m3u8",
+      "url": "https://alkatlan.xmax1tv.com/live/2.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_SD",
       "name": "Bein Sports 3 SD",
-      "url": "https://kidn.pages.dev/m3u8/167.m3u8",
+      "url": "https://alkatlan.xmax1tv.com/live/3.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b4_SD",
       "name": "Bein Sports 4 SD",
-      "url": "https://kidn.pages.dev/m3u8/169.m3u8",
+      "url": "https://alkatlan.xmax1tv.com/live/4.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -229,7 +229,7 @@
     {
   "id": "b5_SD",
   "name": "Bein Sports 5 SD",
-  "url": "https://kidn.pages.dev/m3u8/172.m3u8",
+  "url": "https://alkatlan.xmax1tv.com/live/5.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",
@@ -445,7 +445,7 @@
       "id": "34",
       "name": "ALOSTORA Sports 1",
       "url": 
-      "https://pull.gosh6.app/live/obs_16469124_autobit.m3u8?txSecret=6122a37f5b2160431f5b34e82ba5b0da&txTime=6ab2c0b8",
+      "https://sport.redstv-yahaydeve.workers.dev/live/reds1.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -455,7 +455,7 @@
       "id": "35",
       "name": "ALOSTORA Sports 2",
       "url": 
-      "https://ap-4fd.pages.dev/beinz2.",
+      "https://sport.redstv-yahaydeve.workers.dev/live/reds2.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "", "Origin": "" }
@@ -463,7 +463,7 @@
     {
       "id": "36",
       "name": "ALOSTORA Sports 3",
-      "url": "https://razko.razkalahmolly.workers.dev/https://scontent-mad2-1.xx.fbcdn.net/hvideo-ldc-frc/_nc_cat-109/_nc_sr_t-4/v/rASdXFV7klOmGAFhzW9vnJg2XWu78LQh1--I0ygkJu8eXtA/_nc_ohc-Hup-okvEpUQQ7kNvwGJqSIz/live-dash/dash-abr-ibr-audio/1417156780395311_0.mpd?_nc_zt=28&ccb=2-4&lvp=1&ms=m_CN&p_bd=bHpvHwghpsM0Y3AS1q2y&sc_t=1&oh=00_AQLYtUpftOEbHNC5EbaAEjl6G8On13H782zTbteiUNmgEA&oe=6AB0AEB7",
+      "url": "https://sport.redstv-yahaydeve.workers.dev/live/reds3.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

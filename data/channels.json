@@ -209,7 +209,7 @@
       "id": "b2_SD",
       "name": "Bein Sports 2 SD",
       "url": "https://bein.kianezidi.workers.dev/bein_sports2&q=SD.m3u8",
-      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+      "headers": { "User-Agent": "OSCARTV2020", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_SD",

@@ -106,14 +106,14 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "http://bein.kianezidi.workers.dev/bein_sports1&q=FHD.m3u8",
-      "headers": { "User-Agent": "OSCARTV2020", "Referer": "", "Origin": "" }
+      "https://ali.albesriali8.workers.dev/?url=http://82.39.115.19:24652/6.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://osc.mamganjo.workers.dev/id=65&go=160&file=.m3u8",
+      "https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b2sa/playlist.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

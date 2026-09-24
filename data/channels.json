@@ -106,28 +106,28 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://ali.albesriali8.workers.dev/?url=http://82.39.115.19:24652/6.m3u8",
+      "https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b1sa/playlist.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b2sa/playlist.m3u8",
+      "https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b2go/playlist.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_FHD",
       "name": "Bein Sports 3 FHD",
       "url": 
-      "https://osc.mamganjo.workers.dev/id=66&go=254&file=.m3u8",
+      "https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b3go/playlist.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b4_FHD",
       "name": "Bein Sports 4 FHD",
       "url": 
-      "https://osc.mamganjo.workers.dev/id=67&go=190&file=.m3u8",
+      "https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b4go/playlist.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -259,7 +259,7 @@
 {
   "id": "b1_LOW",
   "name": "Bein Sports 1 LOW",
-  "url": "https://beout-edge.nullsave-ai.workers.dev/live/bein1/360p/index.m3u8",
+  "url": "https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b360t1/playlist.m3u8",
   "headers": {
     "User-Agent": "",
     "Referer": "",

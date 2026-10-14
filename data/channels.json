@@ -66,7 +66,7 @@
       "id": "TOD1",
       "name": "TOD 1 ",
       "url": 
-      "https://tod.linuxtry11.workers.dev/channel.m3u8",
+      "https://tod.iptvkingg23.workers.dev/channel.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -80,7 +80,7 @@
       "id": "TOD3",
       "name": "TOD 3 ",
       "url": 
-      "https://iptv-subscription-api.tvkora56.workers.dev/v1/custom/stream/17.m3u8?code=2027",
+      "https://tod.linuxtry11.workers.dev/channel.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

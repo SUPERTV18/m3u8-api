@@ -106,21 +106,21 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_hd.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/b1s/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_hd.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/b2s/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_FHD",
       "name": "Bein Sports 3 FHD",
       "url": 
-      "https://live404.ai.studio/api/korasport/stream/bein3.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/b3s/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -332,7 +332,7 @@
       "id": "24",
       "name": "ALWAN Sports 1",
       "url": 
-      "https://ameditv.ai.studio/api/proxy?url=http%3A%2F%2Fm3u.drm-26.com%3A80%2Flive%2FMkdtv1_061261%2F4STJysUc%2F1641618.m3u8",
+      "https://blcco.linkip.org/live/3461_.m3u8",
       "headers": { 
         "User-Agent": "", 
         "Referer": "", "Origin": "" }
@@ -341,7 +341,7 @@
       "id": "25",
       "name": "ALWAN Sports 2",
       "url": 
-      "https://ameditv.ai.studio/api/proxy?url=http%3A%2F%2Fm3u.drm-26.com%3A80%2Flive%2FMkdtv1_061261%2F4STJysUc%2F1641619.m3u8",
+      "https://blcco.linkip.org/live/3460_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -349,28 +349,28 @@
       "name": 
       "ALWAN Sports 3",
       "url": 
-      "https://ameditv.ai.studio/api/proxy?url=http%3A%2F%2Fm3u.drm-26.com%3A80%2Flive%2FMkdtv1_061261%2F4STJysUc%2F1641620.m3u8",
+      "https://blcco.linkip.org/live/3459_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "27",
       "name": "ALWAN Sports 4",
       "url": 
-      "https://ameditv.ai.studio/api/proxy?url=http%3A%2F%2Fm3u.drm-26.com%3A80%2Flive%2FMkdtv1_061261%2F4STJysUc%2F1641621.m3u8",
+      "https://blcco.linkip.org/live/3458_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "28",
       "name": "ALWAN Sports 5",
       "url": 
-      "https://ameditv.ai.studio/api/proxy?url=http%3A%2F%2Fm3u.drm-26.com%3A80%2Flive%2FMkdtv1_061261%2F4STJysUc%2F1641622.m3u8",
+      "https://blcco.linkip.org/live/3457_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "29",
       "name": "ALWAN Sports 6",
       "url": 
-      "https://ameditv.ai.studio/api/proxy?url=http%3A%2F%2Fm3u.drm-26.com%3A80%2Flive%2FMkdtv1_061261%2F4STJysUc%2F1641623.m3u8",
+      "https://blcco.linkip.org/live/3456_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -629,7 +629,7 @@
       "id": "89",
       "name": "AL-FAJER 1 HD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/f1/index.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/fa1/index.m3u8",
       "headers": { 
         "User-Agent": "",
         "Referer": "",
@@ -639,28 +639,28 @@
       "id": "90",
       "name": "AL-FAJER 2 HD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/f2/index.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/fa2/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "91",
       "name": "AL-FAJER 3 HD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/f3/index.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/fa3/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "92",
       "name": "AL-FAJER 4 HD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/f4/index.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/fa4/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "93",
       "name": "AL-FAJER 5 HD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/f5/index.m3u8",
+      "https://krikartv4k.shaqlawatvworkersdev.workers.dev/fa5/index.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     }
   ],

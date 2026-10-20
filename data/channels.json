@@ -106,21 +106,21 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/b1/index.m3u8",
+      "https://live404.ai.studio/api/korasport/stream/bein1.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/b2/index.m3u8",
+      "https://live404.ai.studio/api/korasport/stream/bein2.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b3_FHD",
       "name": "Bein Sports 3 FHD",
       "url": 
-      "https://shaqlawatv.shaqlawatvworkersdev.workers.dev/b3/index.m3u8",
+      "https://live404.ai.studio/api/korasport/stream/bein3.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

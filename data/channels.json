@@ -87,13 +87,13 @@
       "id": "b1_4K",
       "name": "Bein Sports 1 4K",
       "url": 
-      "https://live404.ai.studio/api/korasport/stream/bein1.m3u8",
+      "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_4K.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_4K",
       "name": "Bein Sports 2 4K",
-      "url": "https://live404.ai.studio/api/korasport/stream/bein2.m3u8",
+      "url": "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_4K.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -106,14 +106,14 @@
       "id": "b1_FHD",
       "name": "Bein Sports 1 FHD",
       "url": 
-      "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_4K.m3u8",
+      "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_hd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "b2_FHD",
       "name": "Bein Sports 2 FHD",
       "url": 
-      "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_4K.m3u8",
+      "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_hd.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {

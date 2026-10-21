@@ -12,7 +12,7 @@ const OLD_UA = "Super26";
 // فيديو الاستجابة للـ UA القديم
 // =========================
 const FALLBACK_VIDEO =
-  "https://github.com/himasabry/video/raw/refs/heads/main/output.m3u8";
+  "https://github.com/SUPERTV18/video/raw/refs/heads/main/SUPER_TV_LIVE_4K.mp4";
 
 export default async function handler(req, res) {
   try {

@@ -12,7 +12,7 @@ const OLD_UA = "Super26";
 // فيديو الاستجابة للـ UA القديم
 // =========================
 const FALLBACK_VIDEO =
-  "https://github.com/himasabry/video/raw/refs/heads/main/master.m3u8";
+  "https://github.com/himasabry/video/raw/refs/heads/main/output.m3u8";
 
 export default async function handler(req, res) {
   try {

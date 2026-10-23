@@ -817,35 +817,35 @@
       "id": "99",
       "name": "YAHALA BIL ARABI",
       "url": 
-      "https://super-tv.pages.dev/YAHALA_BIL_ARABI.m3u8",
+      "https://blcco.linkip.org/live/1854_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "100",
       "name": "YAHALA AFLAM",
       "url": 
-      "https://super-tv.pages.dev/YAHALA_AFLAM.m3u8",
+      "https://blcco.linkip.org/live/1852_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
       },
     {
       "id": "101",
       "name": "Movies",
       "url": 
-      "https://super-tv.pages.dev/Movies.m3u8",
+      "https://blcco.linkip.org/live/1853_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "102",
       "name": "Action",
       "url": 
-      "https://super-tv.pages.dev/Action.m3u8",
+      "https://blcco.linkip.org/live/1849_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
       },
     {
       "id": "103",
       "name": "Comedy",
       "url": 
-      "https://super-tv.pages.dev/Comedy.m3u8",
+      "https://blcco.linkip.org/live/1845_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
@@ -866,7 +866,7 @@
       "id": "106",
       "name": "Alfa Musalsalat",
       "url": 
-      "https://super-tv.pages.dev/Musalsalat_1.m3u8",
+      "https://blcco.linkip.org/live/1821_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
       },
     {
@@ -880,14 +880,14 @@
       "id": "108",
       "name": "Alfa Alyoum",
       "url": 
-        "https://super-tv.pages.dev/Alfa_Alyoum.m3u8",
+        "https://blcco.linkip.org/live/1813_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
       "id": "109",
       "name": "Alfa Alsafwa",
       "url": 
-      "https://super-tv.pages.dev/Alfa_Alsafwa.m3u8",
+      "https://blcco.linkip.org/live/1826_.m3u8",
       "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
     },
     {
